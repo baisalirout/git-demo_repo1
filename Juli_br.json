@@ -1,6 +1,1 @@
-select * from some table
-where name=' ';
-
-
-
-write a comparision
+{name{"Baisali"}};
